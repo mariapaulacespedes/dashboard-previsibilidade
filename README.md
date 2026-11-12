@@ -2,10 +2,9 @@
 
 Dashboard web que responde à pergunta mais frequente de qualquer stakeholder — **"Quando fica pronto?"** — usando **métricas de fluxo** e **simulação Monte Carlo** no lugar de estimativas.
 
-🔗 **Demo:** _[cole aqui o link da Vercel]_
+🔗 **Demo:** https://dashboard-previsibilidade.vercel.app
 
-![Captura de tela do dashboard](docs/screenshot.png)
-<!-- Salve uma captura de tela em docs/screenshot.png para a imagem acima aparecer. -->
+[![Captura de tela do dashboard](docs/screenshot.jpg)](https://dashboard-previsibilidade.vercel.app)
 
 ---
 
@@ -111,7 +110,7 @@ Este projeto foi construído com o **[Claude Code](https://claude.com/claude-cod
 
 ## Autor
 
-_[Seu nome] — [LinkedIn] — [e-mail ou outro contato]_
+**Maria Paula Cespedes** — [GitHub](https://github.com/mariapaulacespedes)
 
 ---
 
@@ -122,5 +121,6 @@ _[Seu nome] — [LinkedIn] — [e-mail ou outro contato]_
 - **Metrics:** weekly throughput with moving average, cycle time scatterplot with 50th/85th/95th percentiles, aging work in progress, and work item type distribution — all filterable by team.
 - **Forecasts:** 10,000 Monte Carlo runs based on historical throughput answer "When will X items be done?" (dates at 50%, 85% and 95% confidence) and "How many items by date Y?" (count at 85% confidence).
 - **Data:** fully synthetic — three fictional teams, six months of Jira-style items. No real company data.
+- **Live demo:** https://dashboard-previsibilidade.vercel.app
 - **Usage:** open `index.html`, or deploy to Vercel with default settings. Use the EN/PT button to switch language.
 - **Built with AI:** the code was written with Claude Code. My role was defining the problem, choosing the metrics and validating the results.
