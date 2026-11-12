@@ -35,6 +35,12 @@ body {
 h1 { margin: 0; font-size: clamp(28px, 5vw, 42px); line-height: 1.1; letter-spacing: -.02em; text-wrap: balance; }
 .subtitulo { margin: 10px 0 0; max-width: 62ch; color: var(--tinta-2); }
 
+.autoria { margin: 12px 0 0; font-size: 14px; color: var(--tinta-2); }
+.autoria a, .rodape a { color: var(--azul-escuro); font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
+.autoria a:hover, .rodape a:hover { color: var(--azul); }
+.rodape-autoria { font-size: 14px; color: var(--tinta-2); margin-bottom: 10px !important; }
+.rodape-autoria strong { color: var(--tinta); }
+
 .btn-lang {
   flex: none; min-width: 48px; height: 40px; padding: 0 14px;
   border: 1px solid var(--borda); border-radius: 999px; background: var(--superficie);

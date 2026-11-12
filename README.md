@@ -110,7 +110,7 @@ Este projeto foi construído com o **[Claude Code](https://claude.com/claude-cod
 
 ## Autor
 
-**Maria Paula Cespedes** — [GitHub](https://github.com/mariapaulacespedes)
+**Maria Paula Cespedes Bolivar** — [LinkedIn](https://www.linkedin.com/in/paula-cespedes/) · [GitHub](https://github.com/mariapaulacespedes)
 
 ---
 
