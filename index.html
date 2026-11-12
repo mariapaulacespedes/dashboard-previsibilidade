@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quando fica pronto? — Dashboard de Previsibilidade</title>
+  <meta name="description" content="Dashboard de métricas de fluxo e simulação Monte Carlo para responder 'Quando fica pronto?' sem estimativas. Dados sintéticos.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topo">
+    <div class="container topo-linha">
+      <div>
+        <p class="sobretitulo" data-i18n="kicker"></p>
+        <h1 data-i18n="title"></h1>
+        <p class="subtitulo" data-i18n="subtitle"></p>
+      </div>
+      <button id="btn-lang" class="btn-lang" type="button" aria-label="Switch language / Trocar idioma"></button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="filtros" aria-label="Filtros">
+      <div class="seg" id="filtro-time" role="group" aria-label="Time"></div>
+      <p class="nota-dados" id="nota-dados"></p>
+    </section>
+
+    <section class="kpis" id="kpis" aria-live="polite"></section>
+
+    <section class="card">
+      <h2 data-i18n="tp.title"></h2>
+      <div class="grafico"><canvas id="ch-throughput"></canvas></div>
+      <div class="legenda-texto">
+        <p><strong data-i18n="lbl.show"></strong> <span data-i18n="tp.show"></span></p>
+        <p><strong data-i18n="lbl.decide"></strong> <span data-i18n="tp.decide"></span></p>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2 data-i18n="ct.title"></h2>
+      <div class="grafico grafico-alto"><canvas id="ch-cycle"></canvas></div>
+      <div class="legenda-texto">
+        <p><strong data-i18n="lbl.show"></strong> <span data-i18n="ct.show"></span></p>
+        <p><strong data-i18n="lbl.decide"></strong> <span id="ct-decide"></span></p>
+      </div>
+    </section>
+
+    <div class="duas-colunas">
+      <section class="card">
+        <h2 data-i18n="ag.title"></h2>
+        <p class="resumo" id="ag-resumo"></p>
+        <div class="grafico" id="ag-wrap"><canvas id="ch-aging"></canvas></div>
+        <div class="legenda-texto">
+          <p><strong data-i18n="lbl.show"></strong> <span data-i18n="ag.show"></span></p>
+          <p><strong data-i18n="lbl.decide"></strong> <span data-i18n="ag.decide"></span></p>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2 data-i18n="ty.title"></h2>
+        <div class="grafico grafico-rosca"><canvas id="ch-types"></canvas></div>
+        <div class="tabela-wrap"><table class="tabela" id="ty-tabela"></table></div>
+        <div class="legenda-texto">
+          <p><strong data-i18n="lbl.show"></strong> <span data-i18n="ty.show"></span></p>
+          <p><strong data-i18n="lbl.decide"></strong> <span data-i18n="ty.decide"></span></p>
+        </div>
+      </section>
+    </div>
+
+    <section class="mc-cabecalho">
+      <h2 data-i18n="mc.title"></h2>
+      <p data-i18n="mc.intro"></p>
+      <label class="campo campo-linha">
+        <span data-i18n="mc.hist"></span>
+        <select id="mc-hist">
+          <option value="8"></option>
+          <option value="12" selected></option>
+          <option value="26"></option>
+        </select>
+      </label>
+      <p class="resumo" id="mc-amostra"></p>
+    </section>
+
+    <div class="duas-colunas iguais">
+      <section class="card">
+        <h3 data-i18n="mc1.title"></h3>
+        <label class="campo">
+          <span data-i18n="mc1.label"></span>
+          <input id="mc-x" type="number" min="1" max="2000" step="1" value="100" inputmode="numeric">
+        </label>
+        <div class="resultados" id="mc1-res" aria-live="polite"></div>
+        <div class="grafico"><canvas id="ch-mc1"></canvas></div>
+        <div class="legenda-texto">
+          <p><strong data-i18n="lbl.show"></strong> <span data-i18n="mc1.show"></span></p>
+          <p><strong data-i18n="lbl.decide"></strong> <span data-i18n="mc1.decide"></span></p>
+        </div>
+      </section>
+
+      <section class="card">
+        <h3 data-i18n="mc2.title"></h3>
+        <label class="campo">
+          <span data-i18n="mc2.label"></span>
+          <input id="mc-y" type="date">
+        </label>
+        <div class="resultados" id="mc2-res" aria-live="polite"></div>
+        <div class="grafico"><canvas id="ch-mc2"></canvas></div>
+        <div class="legenda-texto">
+          <p><strong data-i18n="lbl.show"></strong> <span data-i18n="mc2.show"></span></p>
+          <p><strong data-i18n="lbl.decide"></strong> <span data-i18n="mc2.decide"></span></p>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="rodape">
+    <div class="container">
+      <p data-i18n="footer.data"></p>
+      <p data-i18n="footer.built"></p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <script src="data/itens.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

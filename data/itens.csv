@@ -1,0 +1,460 @@
+﻿id,time,tipo,data_inicio,data_fim,status
+JRN-101,Jornada do Cliente,Bug,2026-04-14,2026-05-22,Concluído
+PRD-101,Produtos,Débito Técnico,2026-04-22,2026-05-07,Concluído
+APP-101,App Mobile,Bug,2026-04-24,2026-05-05,Concluído
+PRD-102,Produtos,História,2026-04-24,2026-05-04,Concluído
+JRN-102,Jornada do Cliente,Bug,2026-04-29,2026-05-06,Concluído
+PRD-103,Produtos,História,2026-04-29,2026-05-07,Concluído
+JRN-103,Jornada do Cliente,Bug,2026-04-30,2026-05-13,Concluído
+PRD-104,Produtos,História,2026-05-01,2026-05-06,Concluído
+APP-102,App Mobile,História,2026-05-05,2026-05-06,Concluído
+APP-103,App Mobile,Bug,2026-05-05,2026-05-07,Concluído
+JRN-104,Jornada do Cliente,Débito Técnico,2026-05-05,2026-05-11,Concluído
+PRD-105,Produtos,Bug,2026-05-05,2026-05-15,Concluído
+APP-104,App Mobile,História,2026-05-06,2026-05-18,Concluído
+JRN-105,Jornada do Cliente,Débito Técnico,2026-05-06,2026-05-12,Concluído
+JRN-106,Jornada do Cliente,História,2026-05-06,2026-05-11,Concluído
+PRD-106,Produtos,Bug,2026-05-06,2026-05-11,Concluído
+APP-105,App Mobile,Bug,2026-05-07,2026-05-12,Concluído
+APP-106,App Mobile,História,2026-05-07,2026-05-08,Concluído
+JRN-107,Jornada do Cliente,História,2026-05-07,2026-05-20,Concluído
+APP-107,App Mobile,Bug,2026-05-08,2026-05-08,Concluído
+JRN-108,Jornada do Cliente,Bug,2026-05-08,2026-05-12,Concluído
+JRN-109,Jornada do Cliente,História,2026-05-08,2026-05-20,Concluído
+JRN-110,Jornada do Cliente,História,2026-05-08,2026-05-14,Concluído
+JRN-111,Jornada do Cliente,Bug,2026-05-08,2026-05-13,Concluído
+JRN-112,Jornada do Cliente,História,2026-05-11,2026-05-13,Concluído
+JRN-113,Jornada do Cliente,História,2026-05-11,2026-05-26,Concluído
+PRD-107,Produtos,História,2026-05-11,2026-05-18,Concluído
+PRD-108,Produtos,História,2026-05-12,2026-05-19,Concluído
+PRD-109,Produtos,História,2026-05-12,2026-05-18,Concluído
+APP-108,App Mobile,Débito Técnico,2026-05-13,2026-05-25,Concluído
+APP-109,App Mobile,Bug,2026-05-13,2026-05-14,Concluído
+PRD-110,Produtos,História,2026-05-13,2026-05-18,Concluído
+PRD-111,Produtos,História,2026-05-13,2026-05-19,Concluído
+APP-110,App Mobile,História,2026-05-14,2026-05-18,Concluído
+APP-111,App Mobile,Bug,2026-05-14,2026-05-18,Concluído
+JRN-114,Jornada do Cliente,Débito Técnico,2026-05-14,2026-05-21,Concluído
+PRD-112,Produtos,História,2026-05-14,2026-05-21,Concluído
+APP-112,App Mobile,Bug,2026-05-15,2026-05-15,Concluído
+APP-113,App Mobile,Débito Técnico,2026-05-15,2026-05-22,Concluído
+JRN-115,Jornada do Cliente,Débito Técnico,2026-05-15,2026-05-25,Concluído
+JRN-116,Jornada do Cliente,Débito Técnico,2026-05-15,2026-06-01,Concluído
+PRD-113,Produtos,História,2026-05-15,2026-05-18,Concluído
+APP-114,App Mobile,História,2026-05-19,2026-05-20,Concluído
+APP-115,App Mobile,Bug,2026-05-19,2026-05-28,Concluído
+APP-116,App Mobile,Bug,2026-05-19,2026-05-29,Concluído
+APP-117,App Mobile,Débito Técnico,2026-05-19,2026-05-22,Concluído
+APP-118,App Mobile,História,2026-05-19,2026-05-25,Concluído
+PRD-114,Produtos,Bug,2026-05-19,2026-05-27,Concluído
+APP-119,App Mobile,Bug,2026-05-20,2026-06-01,Concluído
+APP-120,App Mobile,História,2026-05-20,2026-05-22,Concluído
+JRN-117,Jornada do Cliente,História,2026-05-20,2026-05-20,Concluído
+JRN-118,Jornada do Cliente,Débito Técnico,2026-05-20,2026-05-25,Concluído
+APP-121,App Mobile,História,2026-05-21,2026-05-25,Concluído
+JRN-119,Jornada do Cliente,História,2026-05-21,2026-06-01,Concluído
+JRN-120,Jornada do Cliente,História,2026-05-21,2026-05-25,Concluído
+JRN-121,Jornada do Cliente,Bug,2026-05-21,2026-06-02,Concluído
+JRN-122,Jornada do Cliente,Bug,2026-05-21,2026-05-29,Concluído
+PRD-115,Produtos,História,2026-05-21,2026-05-25,Concluído
+PRD-116,Produtos,História,2026-05-21,2026-06-02,Concluído
+JRN-123,Jornada do Cliente,História,2026-05-22,2026-05-25,Concluído
+JRN-124,Jornada do Cliente,História,2026-05-22,2026-05-29,Concluído
+JRN-125,Jornada do Cliente,História,2026-05-22,2026-05-28,Concluído
+PRD-117,Produtos,História,2026-05-22,2026-05-25,Concluído
+PRD-118,Produtos,Bug,2026-05-22,2026-07-27,Concluído
+JRN-126,Jornada do Cliente,História,2026-05-25,2026-06-01,Concluído
+JRN-127,Jornada do Cliente,Débito Técnico,2026-05-26,2026-06-01,Concluído
+JRN-128,Jornada do Cliente,Bug,2026-05-26,2026-06-11,Concluído
+JRN-129,Jornada do Cliente,História,2026-05-26,2026-05-29,Concluído
+PRD-119,Produtos,História,2026-05-26,2026-06-02,Concluído
+APP-122,App Mobile,Bug,2026-05-27,2026-06-01,Concluído
+APP-123,App Mobile,História,2026-05-27,2026-06-01,Concluído
+APP-124,App Mobile,Débito Técnico,2026-05-27,2026-06-15,Concluído
+JRN-130,Jornada do Cliente,História,2026-05-27,2026-05-27,Concluído
+JRN-131,Jornada do Cliente,Bug,2026-05-27,2026-06-05,Concluído
+JRN-132,Jornada do Cliente,História,2026-05-28,2026-06-01,Concluído
+PRD-120,Produtos,Bug,2026-05-28,2026-06-15,Concluído
+JRN-133,Jornada do Cliente,Débito Técnico,2026-05-29,2026-06-11,Concluído
+PRD-121,Produtos,História,2026-06-01,2026-06-04,Concluído
+APP-125,App Mobile,Bug,2026-06-02,2026-06-08,Concluído
+JRN-134,Jornada do Cliente,Débito Técnico,2026-06-02,2026-06-15,Concluído
+JRN-135,Jornada do Cliente,História,2026-06-02,2026-06-17,Concluído
+PRD-122,Produtos,História,2026-06-02,2026-06-15,Concluído
+PRD-123,Produtos,Bug,2026-06-02,2026-06-15,Concluído
+APP-126,App Mobile,Bug,2026-06-03,2026-06-29,Concluído
+PRD-124,Produtos,História,2026-06-03,2026-06-15,Concluído
+APP-127,App Mobile,História,2026-06-04,2026-06-04,Concluído
+APP-128,App Mobile,Bug,2026-06-04,2026-06-04,Concluído
+JRN-136,Jornada do Cliente,História,2026-06-04,2026-06-15,Concluído
+JRN-137,Jornada do Cliente,Débito Técnico,2026-06-04,2026-06-08,Concluído
+PRD-125,Produtos,História,2026-06-04,2026-06-16,Concluído
+PRD-126,Produtos,Bug,2026-06-04,2026-06-05,Concluído
+PRD-127,Produtos,Débito Técnico,2026-06-04,2026-06-15,Concluído
+APP-129,App Mobile,História,2026-06-05,2026-06-10,Concluído
+APP-130,App Mobile,Bug,2026-06-05,2026-07-02,Concluído
+PRD-128,Produtos,História,2026-06-05,2026-06-15,Concluído
+PRD-129,Produtos,Bug,2026-06-05,2026-06-16,Concluído
+PRD-130,Produtos,História,2026-06-05,2026-06-15,Concluído
+JRN-138,Jornada do Cliente,Bug,2026-06-08,2026-06-11,Concluído
+JRN-139,Jornada do Cliente,Débito Técnico,2026-06-08,2026-06-10,Concluído
+PRD-131,Produtos,Bug,2026-06-08,2026-06-18,Concluído
+PRD-132,Produtos,História,2026-06-08,2026-06-09,Concluído
+APP-131,App Mobile,História,2026-06-09,2026-06-15,Concluído
+JRN-140,Jornada do Cliente,Bug,2026-06-09,2026-06-26,Concluído
+JRN-141,Jornada do Cliente,Débito Técnico,2026-06-09,2026-06-15,Concluído
+JRN-142,Jornada do Cliente,Débito Técnico,2026-06-09,2026-06-25,Concluído
+APP-132,App Mobile,História,2026-06-10,2026-06-15,Concluído
+APP-133,App Mobile,Bug,2026-06-10,2026-07-21,Concluído
+APP-134,App Mobile,História,2026-06-10,2026-06-15,Concluído
+APP-135,App Mobile,História,2026-06-10,2026-06-15,Concluído
+JRN-143,Jornada do Cliente,História,2026-06-10,2026-06-15,Concluído
+APP-136,App Mobile,História,2026-06-11,2026-06-15,Concluído
+JRN-144,Jornada do Cliente,História,2026-06-11,2026-07-01,Concluído
+JRN-145,Jornada do Cliente,Bug,2026-06-11,2026-07-06,Concluído
+PRD-133,Produtos,Bug,2026-06-11,2026-06-17,Concluído
+APP-137,App Mobile,História,2026-06-12,2026-06-29,Concluído
+APP-138,App Mobile,Bug,2026-06-12,2026-06-15,Concluído
+APP-139,App Mobile,História,2026-06-15,2026-06-18,Concluído
+JRN-146,Jornada do Cliente,Débito Técnico,2026-06-15,2026-06-18,Concluído
+PRD-134,Produtos,História,2026-06-15,2026-06-30,Concluído
+PRD-135,Produtos,História,2026-06-15,2026-06-19,Concluído
+PRD-136,Produtos,História,2026-06-15,2026-06-18,Concluído
+PRD-137,Produtos,História,2026-06-15,2026-06-19,Concluído
+APP-140,App Mobile,Débito Técnico,2026-06-16,2026-06-29,Concluído
+PRD-138,Produtos,História,2026-06-16,2026-06-22,Concluído
+PRD-139,Produtos,História,2026-06-16,2026-06-25,Concluído
+APP-141,App Mobile,História,2026-06-17,2026-06-19,Concluído
+APP-142,App Mobile,Débito Técnico,2026-06-17,2026-07-06,Concluído
+APP-143,App Mobile,História,2026-06-17,2026-06-22,Concluído
+JRN-147,Jornada do Cliente,História,2026-06-17,2026-06-26,Concluído
+JRN-148,Jornada do Cliente,Bug,2026-06-17,2026-06-29,Concluído
+PRD-140,Produtos,História,2026-06-17,2026-06-18,Concluído
+APP-144,App Mobile,História,2026-06-18,2026-06-29,Concluído
+JRN-149,Jornada do Cliente,História,2026-06-18,2026-06-22,Concluído
+JRN-150,Jornada do Cliente,História,2026-06-18,2026-06-22,Concluído
+PRD-141,Produtos,História,2026-06-18,2026-06-25,Concluído
+PRD-142,Produtos,História,2026-06-18,2026-07-01,Concluído
+APP-145,App Mobile,Débito Técnico,2026-06-19,2026-07-06,Concluído
+APP-146,App Mobile,História,2026-06-19,2026-07-13,Concluído
+JRN-151,Jornada do Cliente,História,2026-06-19,2026-06-22,Concluído
+JRN-152,Jornada do Cliente,Bug,2026-06-19,2026-07-06,Concluído
+JRN-153,Jornada do Cliente,Bug,2026-06-19,2026-06-23,Concluído
+JRN-154,Jornada do Cliente,Bug,2026-06-19,2026-06-22,Concluído
+APP-147,App Mobile,História,2026-06-22,2026-06-29,Concluído
+APP-148,App Mobile,Bug,2026-06-22,2026-08-17,Concluído
+JRN-155,Jornada do Cliente,História,2026-06-22,2026-06-25,Concluído
+JRN-156,Jornada do Cliente,Bug,2026-06-22,2026-06-22,Concluído
+PRD-143,Produtos,História,2026-06-22,2026-06-29,Concluído
+PRD-144,Produtos,Débito Técnico,2026-06-22,2026-07-01,Concluído
+APP-149,App Mobile,História,2026-06-23,2026-06-25,Concluído
+APP-150,App Mobile,Bug,2026-06-23,2026-07-06,Concluído
+JRN-157,Jornada do Cliente,História,2026-06-23,2026-06-29,Concluído
+PRD-145,Produtos,Bug,2026-06-24,2026-07-06,Concluído
+JRN-158,Jornada do Cliente,Débito Técnico,2026-06-25,2026-06-29,Concluído
+JRN-159,Jornada do Cliente,Bug,2026-06-25,2026-07-03,Concluído
+PRD-146,Produtos,História,2026-06-25,2026-06-30,Concluído
+PRD-147,Produtos,História,2026-06-25,2026-07-06,Concluído
+APP-151,App Mobile,História,2026-06-26,2026-07-02,Concluído
+JRN-160,Jornada do Cliente,Débito Técnico,2026-06-26,2026-07-01,Concluído
+JRN-161,Jornada do Cliente,História,2026-06-26,2026-07-02,Concluído
+JRN-162,Jornada do Cliente,História,2026-06-29,2026-07-02,Concluído
+APP-152,App Mobile,Bug,2026-06-30,2026-07-31,Concluído
+APP-153,App Mobile,História,2026-06-30,2026-07-08,Concluído
+APP-154,App Mobile,Débito Técnico,2026-06-30,2026-07-07,Concluído
+JRN-163,Jornada do Cliente,Bug,2026-06-30,2026-07-02,Concluído
+JRN-164,Jornada do Cliente,História,2026-06-30,2026-07-07,Concluído
+JRN-165,Jornada do Cliente,Bug,2026-06-30,2026-07-01,Concluído
+PRD-148,Produtos,Débito Técnico,2026-06-30,2026-07-13,Concluído
+PRD-149,Produtos,História,2026-06-30,2026-07-13,Concluído
+PRD-150,Produtos,História,2026-06-30,2026-07-13,Concluído
+APP-155,App Mobile,Débito Técnico,2026-07-01,2026-07-13,Concluído
+JRN-166,Jornada do Cliente,Bug,2026-07-01,2026-07-06,Concluído
+JRN-167,Jornada do Cliente,História,2026-07-01,2026-07-13,Concluído
+JRN-168,Jornada do Cliente,História,2026-07-01,2026-07-07,Concluído
+PRD-151,Produtos,Débito Técnico,2026-07-01,2026-07-06,Concluído
+APP-156,App Mobile,História,2026-07-02,2026-07-06,Concluído
+JRN-169,Jornada do Cliente,Débito Técnico,2026-07-02,2026-07-06,Concluído
+JRN-170,Jornada do Cliente,História,2026-07-02,2026-07-06,Concluído
+JRN-171,Jornada do Cliente,História,2026-07-02,2026-07-08,Concluído
+APP-157,App Mobile,História,2026-07-03,2026-07-06,Concluído
+APP-158,App Mobile,História,2026-07-03,2026-07-13,Concluído
+JRN-172,Jornada do Cliente,História,2026-07-03,2026-07-06,Concluído
+JRN-173,Jornada do Cliente,História,2026-07-03,2026-07-06,Concluído
+PRD-152,Produtos,História,2026-07-03,2026-07-13,Concluído
+PRD-153,Produtos,História,2026-07-03,2026-07-13,Concluído
+APP-159,App Mobile,Débito Técnico,2026-07-06,2026-07-08,Concluído
+JRN-174,Jornada do Cliente,Débito Técnico,2026-07-06,2026-07-10,Concluído
+JRN-175,Jornada do Cliente,História,2026-07-06,2026-07-22,Concluído
+APP-160,App Mobile,Bug,2026-07-07,2026-07-10,Concluído
+JRN-176,Jornada do Cliente,Bug,2026-07-07,2026-07-15,Concluído
+JRN-177,Jornada do Cliente,História,2026-07-07,2026-07-09,Concluído
+JRN-178,Jornada do Cliente,História,2026-07-07,2026-07-08,Concluído
+JRN-179,Jornada do Cliente,História,2026-07-07,2026-07-13,Concluído
+PRD-154,Produtos,História,2026-07-07,2026-07-08,Concluído
+APP-161,App Mobile,Bug,2026-07-08,2026-07-22,Concluído
+APP-162,App Mobile,Débito Técnico,2026-07-08,2026-07-13,Concluído
+JRN-180,Jornada do Cliente,Débito Técnico,2026-07-08,2026-07-29,Concluído
+APP-163,App Mobile,História,2026-07-09,2026-07-24,Concluído
+APP-164,App Mobile,Bug,2026-07-09,2026-07-13,Concluído
+APP-165,App Mobile,História,2026-07-09,2026-07-13,Concluído
+APP-166,App Mobile,História,2026-07-09,2026-07-14,Concluído
+APP-167,App Mobile,História,2026-07-09,2026-07-13,Concluído
+JRN-181,Jornada do Cliente,História,2026-07-09,2026-07-13,Concluído
+JRN-182,Jornada do Cliente,História,2026-07-09,2026-07-21,Concluído
+JRN-183,Jornada do Cliente,Débito Técnico,2026-07-09,2026-07-10,Concluído
+PRD-155,Produtos,Bug,2026-07-09,2026-07-24,Concluído
+PRD-156,Produtos,Bug,2026-07-10,2026-10-02,Concluído
+PRD-157,Produtos,História,2026-07-10,2026-07-20,Concluído
+PRD-158,Produtos,História,2026-07-10,2026-07-16,Concluído
+APP-168,App Mobile,História,2026-07-13,2026-07-20,Concluído
+APP-169,App Mobile,Bug,2026-07-13,2026-07-17,Concluído
+JRN-184,Jornada do Cliente,História,2026-07-13,2026-07-27,Concluído
+PRD-159,Produtos,Débito Técnico,2026-07-13,2026-07-17,Concluído
+APP-170,App Mobile,História,2026-07-15,2026-07-20,Concluído
+PRD-160,Produtos,História,2026-07-15,2026-07-20,Concluído
+PRD-161,Produtos,Bug,2026-07-15,2026-07-27,Concluído
+PRD-162,Produtos,História,2026-07-15,2026-07-20,Concluído
+PRD-163,Produtos,História,2026-07-16,2026-07-27,Concluído
+APP-171,App Mobile,Bug,2026-07-17,2026-07-20,Concluído
+APP-172,App Mobile,História,2026-07-17,2026-07-22,Concluído
+APP-173,App Mobile,Débito Técnico,2026-07-17,2026-07-20,Concluído
+APP-174,App Mobile,Débito Técnico,2026-07-20,2026-07-27,Concluído
+JRN-185,Jornada do Cliente,História,2026-07-20,2026-07-23,Concluído
+PRD-164,Produtos,Bug,2026-07-20,2026-07-24,Concluído
+PRD-165,Produtos,História,2026-07-20,2026-07-29,Concluído
+PRD-166,Produtos,Bug,2026-07-20,2026-08-19,Concluído
+APP-175,App Mobile,História,2026-07-21,2026-07-21,Concluído
+JRN-186,Jornada do Cliente,História,2026-07-21,2026-07-31,Concluído
+JRN-187,Jornada do Cliente,Bug,2026-07-21,2026-07-30,Concluído
+JRN-188,Jornada do Cliente,Débito Técnico,2026-07-21,2026-08-03,Concluído
+JRN-189,Jornada do Cliente,Bug,2026-07-22,2026-07-30,Concluído
+JRN-190,Jornada do Cliente,Débito Técnico,2026-07-22,2026-08-04,Concluído
+JRN-191,Jornada do Cliente,Bug,2026-07-22,2026-07-22,Concluído
+PRD-167,Produtos,História,2026-07-22,2026-07-29,Concluído
+JRN-192,Jornada do Cliente,História,2026-07-23,2026-07-28,Concluído
+JRN-193,Jornada do Cliente,Débito Técnico,2026-07-24,2026-07-29,Concluído
+JRN-194,Jornada do Cliente,Débito Técnico,2026-07-24,2026-08-03,Concluído
+PRD-168,Produtos,História,2026-07-24,2026-08-04,Concluído
+APP-176,App Mobile,História,2026-07-27,2026-07-29,Concluído
+PRD-169,Produtos,Bug,2026-07-27,2026-08-03,Concluído
+PRD-170,Produtos,Bug,2026-07-27,2026-07-30,Concluído
+JRN-195,Jornada do Cliente,História,2026-07-28,2026-07-29,Concluído
+JRN-196,Jornada do Cliente,Bug,2026-07-28,2026-07-29,Concluído
+JRN-197,Jornada do Cliente,Bug,2026-07-28,2026-08-10,Concluído
+PRD-171,Produtos,História,2026-07-28,2026-08-03,Concluído
+APP-177,App Mobile,História,2026-07-29,2026-08-03,Concluído
+APP-178,App Mobile,História,2026-07-29,2026-08-06,Concluído
+JRN-198,Jornada do Cliente,Bug,2026-07-29,2026-08-10,Concluído
+JRN-199,Jornada do Cliente,História,2026-07-30,2026-08-10,Concluído
+PRD-172,Produtos,Bug,2026-07-31,2026-08-03,Concluído
+PRD-173,Produtos,História,2026-07-31,2026-08-06,Concluído
+PRD-174,Produtos,História,2026-07-31,2026-08-04,Concluído
+APP-179,App Mobile,História,2026-08-03,2026-08-10,Concluído
+PRD-175,Produtos,História,2026-08-03,2026-08-07,Concluído
+APP-180,App Mobile,História,2026-08-04,2026-08-10,Concluído
+APP-181,App Mobile,História,2026-08-04,2026-08-10,Concluído
+APP-182,App Mobile,História,2026-08-04,2026-08-10,Concluído
+JRN-200,Jornada do Cliente,Débito Técnico,2026-08-04,2026-08-11,Concluído
+PRD-176,Produtos,História,2026-08-04,2026-08-17,Concluído
+APP-183,App Mobile,História,2026-08-05,2026-08-10,Concluído
+JRN-201,Jornada do Cliente,História,2026-08-05,2026-08-12,Concluído
+APP-184,App Mobile,Bug,2026-08-06,2026-08-10,Concluído
+JRN-202,Jornada do Cliente,Débito Técnico,2026-08-06,2026-08-12,Concluído
+JRN-203,Jornada do Cliente,História,2026-08-06,2026-08-17,Concluído
+APP-185,App Mobile,História,2026-08-07,2026-08-17,Concluído
+JRN-204,Jornada do Cliente,Débito Técnico,2026-08-07,2026-08-11,Concluído
+PRD-177,Produtos,História,2026-08-07,2026-08-26,Concluído
+JRN-205,Jornada do Cliente,Débito Técnico,2026-08-10,2026-08-13,Concluído
+JRN-206,Jornada do Cliente,História,2026-08-10,2026-08-17,Concluído
+JRN-207,Jornada do Cliente,Bug,2026-08-11,2026-08-18,Concluído
+PRD-178,Produtos,História,2026-08-11,2026-08-24,Concluído
+APP-186,App Mobile,História,2026-08-12,2026-08-14,Concluído
+APP-187,App Mobile,História,2026-08-12,2026-08-17,Concluído
+APP-188,App Mobile,História,2026-08-12,2026-08-14,Concluído
+APP-189,App Mobile,Bug,2026-08-13,2026-09-03,Concluído
+APP-190,App Mobile,Débito Técnico,2026-08-14,2026-08-24,Concluído
+APP-191,App Mobile,Débito Técnico,2026-08-14,2026-08-24,Concluído
+APP-192,App Mobile,Débito Técnico,2026-08-14,2026-08-18,Concluído
+APP-193,App Mobile,História,2026-08-14,2026-08-17,Concluído
+APP-194,App Mobile,Débito Técnico,2026-08-14,2026-08-17,Concluído
+APP-195,App Mobile,História,2026-08-14,2026-08-24,Concluído
+JRN-208,Jornada do Cliente,Bug,2026-08-14,2026-08-17,Concluído
+PRD-179,Produtos,Bug,2026-08-14,2026-08-28,Concluído
+JRN-209,Jornada do Cliente,História,2026-08-17,2026-08-24,Concluído
+APP-196,App Mobile,História,2026-08-18,2026-08-21,Concluído
+JRN-210,Jornada do Cliente,História,2026-08-19,2026-08-24,Concluído
+PRD-180,Produtos,História,2026-08-19,2026-08-28,Concluído
+APP-197,App Mobile,Débito Técnico,2026-08-20,2026-08-24,Concluído
+APP-198,App Mobile,História,2026-08-21,2026-08-24,Concluído
+APP-199,App Mobile,História,2026-08-21,2026-09-01,Concluído
+JRN-211,Jornada do Cliente,Bug,2026-08-21,2026-08-27,Concluído
+JRN-212,Jornada do Cliente,Bug,2026-08-21,2026-08-27,Concluído
+APP-200,App Mobile,Débito Técnico,2026-08-24,2026-08-31,Concluído
+JRN-213,Jornada do Cliente,Bug,2026-08-24,2026-08-28,Concluído
+PRD-181,Produtos,Débito Técnico,2026-08-24,2026-08-28,Concluído
+PRD-182,Produtos,História,2026-08-24,2026-08-31,Concluído
+PRD-183,Produtos,História,2026-08-24,2026-09-16,Concluído
+APP-201,App Mobile,Bug,2026-08-25,2026-08-31,Concluído
+APP-202,App Mobile,Bug,2026-08-25,2026-09-09,Concluído
+APP-203,App Mobile,Débito Técnico,2026-08-26,2026-08-31,Concluído
+APP-204,App Mobile,História,2026-08-26,2026-08-27,Concluído
+JRN-214,Jornada do Cliente,História,2026-08-26,2026-09-02,Concluído
+PRD-184,Produtos,Débito Técnico,2026-08-26,2026-09-07,Concluído
+PRD-185,Produtos,História,2026-08-26,2026-08-31,Concluído
+APP-205,App Mobile,História,2026-08-27,2026-09-17,Concluído
+JRN-215,Jornada do Cliente,História,2026-08-27,2026-09-03,Concluído
+PRD-186,Produtos,Bug,2026-08-27,2026-09-07,Concluído
+JRN-216,Jornada do Cliente,Bug,2026-08-28,2026-08-31,Concluído
+PRD-187,Produtos,Bug,2026-08-28,2026-09-03,Concluído
+APP-206,App Mobile,Bug,2026-08-31,2026-08-31,Concluído
+APP-207,App Mobile,Bug,2026-08-31,2026-09-08,Concluído
+JRN-217,Jornada do Cliente,História,2026-08-31,2026-09-03,Concluído
+JRN-218,Jornada do Cliente,História,2026-08-31,2026-09-15,Concluído
+PRD-188,Produtos,Bug,2026-08-31,2026-09-14,Concluído
+JRN-219,Jornada do Cliente,Débito Técnico,2026-09-01,2026-09-15,Concluído
+APP-208,App Mobile,Bug,2026-09-02,2026-09-02,Concluído
+PRD-189,Produtos,História,2026-09-02,2026-09-14,Concluído
+APP-209,App Mobile,História,2026-09-03,2026-09-15,Concluído
+APP-210,App Mobile,Bug,2026-09-03,2026-09-14,Concluído
+PRD-190,Produtos,História,2026-09-03,2026-09-07,Concluído
+APP-211,App Mobile,História,2026-09-04,2026-09-16,Concluído
+JRN-220,Jornada do Cliente,Débito Técnico,2026-09-04,2026-09-07,Concluído
+PRD-191,Produtos,História,2026-09-04,2026-09-15,Concluído
+APP-212,App Mobile,História,2026-09-08,2026-09-15,Concluído
+JRN-221,Jornada do Cliente,História,2026-09-08,2026-09-18,Concluído
+APP-213,App Mobile,História,2026-09-10,2026-09-14,Concluído
+PRD-192,Produtos,História,2026-09-10,2026-09-14,Concluído
+PRD-193,Produtos,História,2026-09-10,2026-09-21,Concluído
+APP-214,App Mobile,Bug,2026-09-11,2026-09-14,Concluído
+JRN-222,Jornada do Cliente,Débito Técnico,2026-09-11,2026-09-14,Concluído
+APP-215,App Mobile,História,2026-09-14,2026-09-16,Concluído
+APP-216,App Mobile,Bug,2026-09-14,2026-09-21,Concluído
+APP-217,App Mobile,História,2026-09-14,2026-09-17,Concluído
+JRN-223,Jornada do Cliente,Bug,2026-09-14,2026-09-14,Concluído
+PRD-194,Produtos,História,2026-09-14,2026-09-22,Concluído
+PRD-195,Produtos,História,2026-09-14,2026-09-28,Concluído
+APP-218,App Mobile,Bug,2026-09-15,2026-10-12,Concluído
+APP-219,App Mobile,Bug,2026-09-15,2026-09-16,Concluído
+APP-220,App Mobile,História,2026-09-15,2026-09-18,Concluído
+JRN-224,Jornada do Cliente,Bug,2026-09-15,2026-09-17,Concluído
+JRN-225,Jornada do Cliente,História,2026-09-15,2026-09-18,Concluído
+PRD-196,Produtos,História,2026-09-15,2026-09-30,Concluído
+APP-221,App Mobile,História,2026-09-16,2026-09-21,Concluído
+PRD-197,Produtos,História,2026-09-16,2026-09-22,Concluído
+APP-222,App Mobile,Débito Técnico,2026-09-17,2026-09-21,Concluído
+APP-223,App Mobile,Débito Técnico,2026-09-17,2026-09-18,Concluído
+APP-224,App Mobile,Bug,2026-09-17,2026-09-22,Concluído
+JRN-226,Jornada do Cliente,História,2026-09-17,2026-09-17,Concluído
+JRN-227,Jornada do Cliente,História,2026-09-17,2026-09-21,Concluído
+PRD-198,Produtos,História,2026-09-17,2026-09-25,Concluído
+PRD-199,Produtos,Bug,2026-09-17,2026-09-21,Concluído
+APP-225,App Mobile,Débito Técnico,2026-09-18,2026-10-05,Concluído
+APP-226,App Mobile,História,2026-09-18,2026-09-24,Concluído
+APP-227,App Mobile,História,2026-09-18,2026-09-22,Concluído
+PRD-200,Produtos,História,2026-09-18,2026-09-28,Concluído
+PRD-201,Produtos,História,2026-09-18,2026-09-21,Concluído
+PRD-202,Produtos,História,2026-09-18,2026-09-21,Concluído
+APP-228,App Mobile,História,2026-09-21,2026-09-23,Concluído
+APP-229,App Mobile,Bug,2026-09-21,2026-09-23,Concluído
+APP-230,App Mobile,Bug,2026-09-21,,Em andamento
+JRN-228,Jornada do Cliente,Bug,2026-09-21,2026-09-29,Concluído
+JRN-229,Jornada do Cliente,Bug,2026-09-21,2026-10-12,Concluído
+JRN-230,Jornada do Cliente,História,2026-09-21,2026-09-23,Concluído
+PRD-203,Produtos,História,2026-09-21,2026-09-24,Concluído
+PRD-204,Produtos,Bug,2026-09-21,,Em andamento
+JRN-231,Jornada do Cliente,Bug,2026-09-22,2026-09-24,Concluído
+JRN-232,Jornada do Cliente,Bug,2026-09-22,,Em andamento
+PRD-205,Produtos,Débito Técnico,2026-09-22,2026-10-26,Concluído
+PRD-206,Produtos,Débito Técnico,2026-09-22,2026-09-28,Concluído
+APP-231,App Mobile,Débito Técnico,2026-09-23,2026-10-08,Concluído
+APP-232,App Mobile,História,2026-09-23,2026-09-28,Concluído
+PRD-207,Produtos,História,2026-09-23,2026-09-29,Concluído
+APP-233,App Mobile,Bug,2026-09-24,2026-10-05,Concluído
+APP-234,App Mobile,Débito Técnico,2026-09-25,2026-10-02,Concluído
+APP-235,App Mobile,História,2026-09-25,2026-10-05,Concluído
+APP-236,App Mobile,Bug,2026-09-28,2026-10-21,Concluído
+APP-237,App Mobile,História,2026-09-28,2026-10-12,Concluído
+JRN-233,Jornada do Cliente,História,2026-09-28,2026-09-30,Concluído
+PRD-208,Produtos,Bug,2026-09-28,2026-10-12,Concluído
+PRD-209,Produtos,Bug,2026-09-29,2026-09-30,Concluído
+PRD-210,Produtos,Débito Técnico,2026-09-29,2026-10-05,Concluído
+APP-238,App Mobile,História,2026-09-30,2026-10-08,Concluído
+JRN-234,Jornada do Cliente,Débito Técnico,2026-09-30,2026-10-22,Concluído
+JRN-235,Jornada do Cliente,Bug,2026-09-30,2026-10-05,Concluído
+JRN-236,Jornada do Cliente,História,2026-09-30,2026-10-21,Concluído
+PRD-211,Produtos,História,2026-09-30,2026-10-06,Concluído
+PRD-212,Produtos,História,2026-10-01,2026-10-06,Concluído
+PRD-213,Produtos,História,2026-10-01,2026-10-09,Concluído
+PRD-214,Produtos,Débito Técnico,2026-10-01,2026-10-12,Concluído
+APP-239,App Mobile,Bug,2026-10-02,2026-10-14,Concluído
+JRN-237,Jornada do Cliente,Bug,2026-10-02,2026-10-26,Concluído
+JRN-238,Jornada do Cliente,História,2026-10-02,2026-10-05,Concluído
+JRN-239,Jornada do Cliente,História,2026-10-02,2026-10-06,Concluído
+PRD-215,Produtos,Bug,2026-10-02,2026-10-14,Concluído
+JRN-240,Jornada do Cliente,História,2026-10-05,2026-10-09,Concluído
+APP-240,App Mobile,Bug,2026-10-06,2026-10-20,Concluído
+APP-241,App Mobile,História,2026-10-06,,Em andamento
+JRN-241,Jornada do Cliente,História,2026-10-06,2026-10-09,Concluído
+PRD-216,Produtos,História,2026-10-06,2026-10-08,Concluído
+PRD-217,Produtos,História,2026-10-06,2026-10-14,Concluído
+PRD-218,Produtos,Bug,2026-10-06,2026-10-07,Concluído
+PRD-219,Produtos,História,2026-10-06,2026-10-12,Concluído
+APP-242,App Mobile,História,2026-10-07,2026-10-07,Concluído
+JRN-242,Jornada do Cliente,Bug,2026-10-07,2026-10-15,Concluído
+JRN-243,Jornada do Cliente,História,2026-10-07,2026-10-21,Concluído
+PRD-220,Produtos,Débito Técnico,2026-10-07,2026-10-19,Concluído
+APP-243,App Mobile,História,2026-10-08,2026-10-19,Concluído
+JRN-244,Jornada do Cliente,História,2026-10-08,2026-10-23,Concluído
+JRN-245,Jornada do Cliente,História,2026-10-08,2026-10-19,Concluído
+JRN-246,Jornada do Cliente,História,2026-10-08,2026-10-13,Concluído
+JRN-247,Jornada do Cliente,História,2026-10-08,,Em andamento
+PRD-221,Produtos,História,2026-10-08,2026-10-13,Concluído
+JRN-248,Jornada do Cliente,Débito Técnico,2026-10-09,2026-10-12,Concluído
+PRD-222,Produtos,História,2026-10-09,2026-10-12,Concluído
+PRD-223,Produtos,História,2026-10-09,,Em andamento
+APP-244,App Mobile,História,2026-10-13,2026-10-16,Concluído
+APP-245,App Mobile,Débito Técnico,2026-10-13,2026-10-26,Concluído
+JRN-249,Jornada do Cliente,História,2026-10-13,2026-10-21,Concluído
+PRD-224,Produtos,Bug,2026-10-13,2026-10-16,Concluído
+APP-246,App Mobile,História,2026-10-14,2026-10-20,Concluído
+JRN-250,Jornada do Cliente,História,2026-10-14,2026-10-19,Concluído
+JRN-251,Jornada do Cliente,Débito Técnico,2026-10-14,2026-10-19,Concluído
+JRN-252,Jornada do Cliente,Débito Técnico,2026-10-15,2026-10-26,Concluído
+JRN-253,Jornada do Cliente,Bug,2026-10-15,2026-10-21,Concluído
+PRD-225,Produtos,Bug,2026-10-15,2026-10-22,Concluído
+PRD-226,Produtos,História,2026-10-15,2026-10-27,Concluído
+APP-247,App Mobile,História,2026-10-16,2026-10-19,Concluído
+APP-248,App Mobile,Débito Técnico,2026-10-16,2026-10-26,Concluído
+JRN-254,Jornada do Cliente,História,2026-10-16,2026-10-19,Concluído
+PRD-227,Produtos,História,2026-10-16,2026-10-19,Concluído
+APP-249,App Mobile,Bug,2026-10-19,2026-10-19,Concluído
+APP-250,App Mobile,História,2026-10-19,2026-10-21,Concluído
+JRN-255,Jornada do Cliente,Débito Técnico,2026-10-19,2026-10-26,Concluído
+APP-251,App Mobile,História,2026-10-20,2026-10-22,Concluído
+APP-252,App Mobile,Bug,2026-10-20,2026-10-22,Concluído
+JRN-256,Jornada do Cliente,Débito Técnico,2026-10-20,2026-10-30,Concluído
+JRN-257,Jornada do Cliente,Bug,2026-10-20,,Em andamento
+APP-253,App Mobile,Bug,2026-10-21,2026-10-21,Concluído
+APP-254,App Mobile,Débito Técnico,2026-10-21,2026-10-23,Concluído
+JRN-258,Jornada do Cliente,História,2026-10-21,2026-10-26,Concluído
+JRN-259,Jornada do Cliente,História,2026-10-21,2026-10-26,Concluído
+APP-255,App Mobile,História,2026-10-23,,Em andamento
+JRN-260,Jornada do Cliente,História,2026-10-23,2026-10-30,Concluído
+JRN-261,Jornada do Cliente,História,2026-10-26,2026-10-28,Concluído
+APP-256,App Mobile,História,2026-10-27,,Em andamento
+APP-257,App Mobile,História,2026-10-27,2026-10-28,Concluído
+JRN-262,Jornada do Cliente,História,2026-10-27,2026-10-29,Concluído
+APP-258,App Mobile,Bug,2026-10-28,,Em andamento
+APP-259,App Mobile,Bug,2026-10-28,,Em andamento
+JRN-263,Jornada do Cliente,História,2026-10-28,,Em andamento
+PRD-228,Produtos,História,2026-10-28,,Em andamento
+APP-260,App Mobile,Bug,2026-10-29,,Em andamento
+JRN-264,Jornada do Cliente,Bug,2026-10-29,,Em andamento
+JRN-265,Jornada do Cliente,História,2026-10-29,,Em andamento
+PRD-229,Produtos,História,2026-10-29,,Em andamento
+APP-261,App Mobile,História,2026-10-30,,Em andamento
+APP-262,App Mobile,História,2026-10-30,,Em andamento
+APP-263,App Mobile,Bug,2026-10-30,,Em andamento
+JRN-266,Jornada do Cliente,História,2026-10-30,,Em andamento
+JRN-267,Jornada do Cliente,História,2026-10-30,,Em andamento
